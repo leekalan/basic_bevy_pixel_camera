@@ -1,4 +1,5 @@
 pub use crate::{
+    BasicPixelCameraPlugin,
     pixel_camera::create_pixel_camera,
     pixel_camera_snapping::PixelCameraSnapping,
     pixel_canvas::{create_pixel_canvas, PixelCanvasConfig},
